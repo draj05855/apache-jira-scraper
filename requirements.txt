@@ -1,0 +1,7 @@
+requests
+tqdm
+python-dotenv
+tenacity
+orjson
+beautifulsoup4
+pydantic
